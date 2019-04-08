@@ -13,6 +13,8 @@ sudo apt-get install tar gzip zip unzip bzip2
 //install vscode
 ./vscode.sh
 
+//install vlc
+sudo apt-get install vlc
 
 //install xclip
 sudo apt-get install xclip
