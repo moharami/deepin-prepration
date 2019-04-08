@@ -16,3 +16,7 @@ sudo apt-get install tar gzip zip unzip bzip2
 
 //install xclip
 sudo apt-get install xclip
+
+
+//install docker 
+./docker.sh
